@@ -4,6 +4,7 @@
  *      ****
  *      ****
  *      ****
+ * @author Amelia
  */
 
 import java.util.Scanner;
