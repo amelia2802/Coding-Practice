@@ -1,0 +1,30 @@
+- [ ] 1. Write a recursive function to calculate the factorial of a number.
+- [ ] 2. Implement a recursive function to calculate the nth Fibonacci number.
+- [ ] 3. Write a recursive function to find the sum of all elements in an array.
+- [ ] 4. Implement a recursive function to reverse a string.
+- [ ] 5. Write a recursive function to find the maximum element in an array.
+- [ ] 6. Implement a recursive function to calculate the power of a number.
+- [ ] 7. Write a recursive function to determine if a string is a palindrome.
+- [ ] 8. Implement a recursive function to solve the Tower of Hanoi problem.
+- [ ] 9. Write a recursive function to calculate the sum of digits of a number.
+- [ ] 10. Implement a recursive function to check if an array is sorted in ascending order.
+- [ ] 11. Write a recursive function to calculate the greatest common divisor (GCD) of two numbers.
+- [ ] 12. Implement a recursive function to generate all permutations of a string.
+- [ ] 13. Write a recursive function to count the number of occurrences of a specific element in an array.
+- [ ] 14. Implement a recursive function to check if a given number is a prime number.
+- [ ] 15. Write a recursive function to find the length of a linked list.
+- [ ] 16. Implement a recursive function to check if a binary tree is a binary search tree.
+- [ ] 17. Write a recursive function to find the sum of all nodes in a binary tree.
+- [ ] 18. Implement a recursive function to reverse a linked list.
+- [ ] 19. Write a recursive function to generate all possible subsets of a set.
+- [ ] 20. Implement a recursive function to find the maximum depth of a binary tree.
+- [ ] 21. Write a recursive function to calculate the nth triangular number.
+- [ ] 22. Implement a recursive function to check if a given string is balanced (e.g., parentheses).
+- [ ] 23. Write a recursive function to find the number of ways to reach a specific destination in a grid.
+- [ ] 24. Implement a recursive function to find the kth smallest element in a binary search tree.
+- [ ] 25. Write a recursive function to calculate the sum of all leaf nodes in a binary tree.
+- [ ] 26. Implement a recursive function to find the number of trailing zeros in a factorial.
+- [ ] 27. Write a recursive function to find the greatest common prefix of an array of strings.
+- [ ] 28. Implement a recursive function to check if a given string is a valid palindrome.
+- [ ] 29. Write a recursive function to find the median of a sorted array.
+- [ ] 30. Implement a recursive function to find the least common ancestor of two nodes in a binary tree.
