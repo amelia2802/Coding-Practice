@@ -1,5 +1,5 @@
-- [ ] 1. Write a recursive function to calculate the factorial of a number.
-- [ ] 2. Implement a recursive function to calculate the nth Fibonacci number.
+- [x] 1. Write a recursive function to calculate the factorial of a number.
+- [x] 2. Implement a recursive function to calculate the nth Fibonacci number.
 - [ ] 3. Write a recursive function to find the sum of all elements in an array.
 - [ ] 4. Implement a recursive function to reverse a string.
 - [ ] 5. Write a recursive function to find the maximum element in an array.
