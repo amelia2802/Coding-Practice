@@ -1,7 +1,7 @@
 - [x] 1. Write a recursive function to calculate the factorial of a number.
 - [x] 2. Implement a recursive function to calculate the nth Fibonacci number.
-- [ ] 3. Write a recursive function to find the sum of all elements in an array.
-- [ ] 4. Implement a recursive function to reverse a string.
+- [x] 3. Write a recursive function to find the sum of all elements in an array.
+- [x] 4. Implement a recursive function to reverse a string.
 - [ ] 5. Write a recursive function to find the maximum element in an array.
 - [ ] 6. Implement a recursive function to calculate the power of a number.
 - [ ] 7. Write a recursive function to determine if a string is a palindrome.
