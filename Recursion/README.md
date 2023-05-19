@@ -4,8 +4,8 @@
 - [x] 4. Implement a recursive function to reverse a string.
 - [x] 5. Write a recursive function to find the maximum element in an array.
 - [x] 6. Implement a recursive function to calculate the power of a number.
-- [ ] 7. Write a recursive function to determine if a string is a palindrome.
-- [ ] 8. Implement a recursive function to solve the Tower of Hanoi problem.
+- [x] 7. Write a recursive function to determine if a string is a palindrome.
+- [x] 8. Implement a recursive function to solve the Tower of Hanoi problem.
 - [ ] 9. Write a recursive function to calculate the sum of digits of a number.
 - [ ] 10. Implement a recursive function to check if an array is sorted in ascending order.
 - [ ] 11. Write a recursive function to calculate the greatest common divisor (GCD) of two numbers.
