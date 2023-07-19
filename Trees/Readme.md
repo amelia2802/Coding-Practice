@@ -2,4 +2,5 @@
 - [x] 2. Preorder Traversal.
 - [x] 3. Level Order Traversal.
 - [] 4. Reverse Level order Traversal.
-- [] 5. Inorder Traversal.
+- [x] 5. Inorder Traversal.
+- [x] 6. Postorder Traversal.
