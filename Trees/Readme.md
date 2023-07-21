@@ -4,3 +4,4 @@
 - [] 4. Reverse Level order Traversal.
 - [x] 5. Inorder Traversal.
 - [x] 6. Postorder Traversal.
+- [x] 7. Build from Level order.
