@@ -1,9 +1,11 @@
 - [x] 1. Binary Tree Creation.
 - [x] 2. Preorder Traversal.
 - [x] 3. Level Order Traversal.
-- [] 4. Reverse Level order Traversal.
+- [] 4. Reverse Level Order Traversal.
 - [x] 5. Inorder Traversal.
 - [x] 6. Postorder Traversal.
 - [x] 7. Build from Level order.
 - [x] 8. [Count Leaf Nodes.](https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055?source=youtube&campaign=LoveBabbar_Codestudio&utm_source=youtube&utm_medium=affiliate&utm_campaign=LoveBabbar_Codestudio&leftPanelTab=0)
 - [x] 9. [Calculate the height of a binary tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+- [x] 10. Calculate the diameter of a tree
+  - [Approach #1: By using recursion and height of the tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
