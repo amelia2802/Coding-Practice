@@ -5,3 +5,5 @@
 - [x] 5. Inorder Traversal.
 - [x] 6. Postorder Traversal.
 - [x] 7. Build from Level order.
+- [x] 8. [Count Leaf Nodes.](https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055?source=youtube&campaign=LoveBabbar_Codestudio&utm_source=youtube&utm_medium=affiliate&utm_campaign=LoveBabbar_Codestudio&leftPanelTab=0)
+- [x] 9. [Calculate the height of a binary tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
