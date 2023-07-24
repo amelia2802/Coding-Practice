@@ -10,3 +10,5 @@
 - [x] 10. Calculate the diameter of a tree
   - [Approach #1: By using recursion and height of the tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
   - [Approach #2: By creating a Pair<Integer, Integer> class to store the height and diameter of each node simultaneously and return the maximum depth](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+- [x] 11. Check whether the binary tree is balanced or not
+  - [Approach #1: By using recursion and height of the tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
