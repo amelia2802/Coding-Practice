@@ -1,7 +1,7 @@
 - [x] 1. Binary Tree Creation.
 - [x] 2. Preorder Traversal.
 - [x] 3. Level Order Traversal.
-- [] 4. Reverse Level Order Traversal.
+- [-] 4. Reverse Level Order Traversal.
 - [x] 5. Inorder Traversal.
 - [x] 6. Postorder Traversal.
 - [x] 7. Build from Level order.
