@@ -13,4 +13,4 @@
 - [x] 11. Check whether the binary tree is balanced or not
   - [Approach #1: By using recursion and height of the tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
      
--[x] 12. [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+- [x] 12. [Determine if Two Trees are Identical](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
